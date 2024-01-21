@@ -16,3 +16,5 @@ This  high-end fine dining restaurant has an extravagant **ambience** and stylis
 * Cine Planet.
 * Fox Sagar.
 * Raichandani Mall.
+
+Use [MyMedia Link](C:\Users\S567549\Documents\GitHub\from-Kothapeta)
