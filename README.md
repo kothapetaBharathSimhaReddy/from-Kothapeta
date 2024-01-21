@@ -5,8 +5,14 @@ This  high-end fine dining restaurant has an extravagant **ambience** and stylis
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-# Ordered List
+# Favorite Restaurant Dishes
 
 1. Biryani.
 2. Keema Samosa.
 3. Chicken 65.
+
+# Places to visit near the Restaurant
+
+* Cine Planet.
+* Fox Sagar.
+* Raichandani Mall.
