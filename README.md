@@ -101,5 +101,5 @@ if __name__ == '__main__':
 
 ```
 
-snippet source [ Snippet](https://code.pieces.app/collections/python)
+Click Here for : [ Snippet Link](https://code.pieces.app/collections/python)
 
