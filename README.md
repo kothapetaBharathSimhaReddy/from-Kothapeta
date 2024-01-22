@@ -100,3 +100,6 @@ if __name__ == '__main__':
     end = time.time() 
 
 ```
+
+snippet source ![ Snippet](https://code.pieces.app/collections/python)
+
