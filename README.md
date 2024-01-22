@@ -32,4 +32,14 @@ My recommendation for anyone is books. Below table will include **Name**, **My R
 | Discovery of India  |  The journey in The Discovery of India |  Jawaharlal Nehru | 
 | Prisoner of Azkaban | Excellent plot twists and turns  | J. K. Rowling |
 
+---
 
+# Favorite Quotes
+
+> "Be the change that you wish to see in the world."
+
+> "Live as if you were to die tomorrow. Learn as if you were to live forever."
+
+Author Name : *Mahatma Gandhi*
+
+> *Mahatma Gandhi*
